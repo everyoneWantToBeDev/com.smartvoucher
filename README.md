@@ -10,7 +10,6 @@ Welcome to our cutting-edge e-commerce platform designed to revolutionize your s
 - Java 11
 - Spring boot 2.x.x
 - GitHub Actions
-- OpenTelemetry
 - Google API
 
 The technology stack driving our platform is a testament to our commitment to delivering a robust and user-friendly solution:
